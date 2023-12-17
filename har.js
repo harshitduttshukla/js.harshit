@@ -1,3 +1,0 @@
-hatsjoty snjnf
-fknn
-break
