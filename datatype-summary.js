@@ -10,7 +10,7 @@
 const id = Symbol("123")
 const anotherId = Symbol('123')
 
-//console.log(id === anotherId);
+//kconsole.log(id === anotherId);
 
 const bigNumber  =5333333335n
 
