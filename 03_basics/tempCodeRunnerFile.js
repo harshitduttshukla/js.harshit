@@ -1,5 +1,4 @@
-
-// function chai(){
-//     console.log(this);
-// }
-// chai()
+addTwo(5)
+const addTwo = function(num){
+    return num + 2
+}
